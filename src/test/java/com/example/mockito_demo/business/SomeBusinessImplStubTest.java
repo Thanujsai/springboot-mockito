@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;
 
-public class SomeBusinessImplTest {
+public class SomeBusinessImplStubTest {
   
   @Test
   void testFindGreatestFromAllData() {
